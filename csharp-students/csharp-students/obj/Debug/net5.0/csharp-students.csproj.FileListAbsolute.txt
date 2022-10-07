@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\bin\Debug\net5.0\csharp-students.exe
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\bin\Debug\net5.0\csharp-students.deps.json
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\bin\Debug\net5.0\csharp-students.runtimeconfig.json
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\bin\Debug\net5.0\csharp-students.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\bin\Debug\net5.0\csharp-students.dll
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\bin\Debug\net5.0\csharp-students.pdb
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.dll
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\refint\csharp-students.dll
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.pdb
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\csharp-students.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\csharp-students\csharp-students\obj\Debug\net5.0\ref\csharp-students.dll
